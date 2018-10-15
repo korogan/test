@@ -1,2 +1,2 @@
-print ("test")
-print ("123 сегодня")
+print ("test;")
+print ("123 сегодня;")
